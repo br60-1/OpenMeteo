@@ -57,3 +57,21 @@ called "Upload LittleFS to The file should be located in the "Pico/ESP8266/ESP32
 The connections between the ESP8266/ESP32/xxx and the TFT are described in the TFT_eSPI library (File: User_Setup_Select.h).
 The JSON parser used is the one from Bodmer (https://github.com/Bodmer/JSON_Decoder) (do not use the one from the Arduino library collection).
 
+Das hier abgebildete Gehäuse ist ein Versuch, es zu beschichten. Ein sauberer 3D-Druck ist ansehnlicher...
+The housing shown here is an attempt at coating it. A clean 3D print looks better...
+
+<picture>
+  <img alt="first screen" src="/pictures/1.jpg">
+</picture>
+<picture>
+  <img alt="second screen" src="/pictures/2.jpg">
+</picture>
+<picture>
+  <img alt="board" src="/pictures/3.jpg">
+</picture>
+<picture>
+  <img alt="TFT" src="/pictures/4.jpg">
+</picture>
+<picture>
+  <img alt="3d-print" src="/pictures/5.jpg">
+</picture>
