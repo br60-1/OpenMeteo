@@ -5,7 +5,7 @@ Sehr schön finde ich die Umsetzung der Texte, Bilder/Grafiken. Dabei entdeckte 
 Vermisst wurde eine Vorhersage für die nächsten Stunden, störend war die Notwendigkeit einer Registrierung und die Hinterlegung von Kreditkartendaten bei Openweather.
 Eine Weitergabe des Projektes an Freunde und Bekannte mit persönlichen Zugangsdaten war so eher nicht möglich.
 
-Auf der Suche nach Alternativen wird man bei Open-Meteo.com fündig. Der Zugriff benötigt keine Anmeldung, es werden nur die angeforderten Daten (das minmiert das parsen) 
+Auf der Suche nach Alternativen wird man bei Open-Meteo.com fündig. Der Zugriff benötigt keine Anmeldung, es werden nur die angeforderten Daten (das minimiert das parsen) 
 geliefert und bis zu 10.000 Abfragen pro Tag sind für den privaten Gebrauch kostenfrei.
 
 Eine ansprechende Verpackung findet man bei "ESP8266 Weather Widget" von OpenGreenEnergy (https://www.thingiverse.com/thing:4928974). Da passen genau alle benötigten Module hinein.
