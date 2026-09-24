@@ -1,0 +1,8 @@
+{
+  "name": "OpenMeteo",
+  "version": "1.0",
+  "keywords": "weather, TFT_eSPI, tft, display, ESP8266, NodeMCU, ESP32, ILI9341",
+  "description": "OpenMeteo API client for ESP8266 and ESP32",
+  "frameworks": "arduino",
+  "platforms": "espressif8266, espressif32"
+}
